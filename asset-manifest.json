@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/my-sketches/static/css/main.b51bf751.css",
+    "main.js": "/my-sketches/static/js/main.6a9b9dcc.js",
+    "static/js/787.4dfcc1db.chunk.js": "/my-sketches/static/js/787.4dfcc1db.chunk.js",
+    "static/media/mercury.jpg": "/my-sketches/static/media/mercury.b3bc4c353800a4a2a211.jpg",
+    "static/media/mars.jpg": "/my-sketches/static/media/mars.a48029948504cbb4d125.jpg",
+    "static/media/earth.jpg": "/my-sketches/static/media/earth.54672c1f3ba121d80470.jpg",
+    "static/media/sun.jpg": "/my-sketches/static/media/sun.b34e6ead10e18ad3ad77.jpg",
+    "static/media/jupiter.jpg": "/my-sketches/static/media/jupiter.b3729a97be4e03928871.jpg",
+    "static/media/stars.jpg": "/my-sketches/static/media/stars.922b4b906f9689bef027.jpg",
+    "static/media/venus.jpg": "/my-sketches/static/media/venus.9415315ac12bfa77093f.jpg",
+    "static/media/saturn.jpg": "/my-sketches/static/media/saturn.afe61e83ea388f0d901a.jpg",
+    "static/media/sun.obj": "/my-sketches/static/media/sun.2925902fcc1a33aa5a57.obj",
+    "static/media/skyBox.obj": "/my-sketches/static/media/skyBox.c595609acfa78ecbd652.obj",
+    "static/media/neptune.jpg": "/my-sketches/static/media/neptune.6dd112666aad0cd68958.jpg",
+    "static/media/saturnRing.obj": "/my-sketches/static/media/saturnRing.293b93cb32517da2ae2d.obj",
+    "static/media/uranus.jpg": "/my-sketches/static/media/uranus.428ad3f979bd783a27d1.jpg",
+    "static/media/saturn_ring.png": "/my-sketches/static/media/saturn_ring.fe76bbb008a07a864ada.png",
+    "static/media/mouse.svg": "/my-sketches/static/media/mouse.1e55b21c57b6310d10daf78e76c4df00.svg",
+    "static/media/drag.svg": "/my-sketches/static/media/drag.5df5d1e649b1c202049ed4dc97be5264.svg",
+    "static/media/bomb.svg": "/my-sketches/static/media/bomb.82c78a5ed26bbbdce3f855a9198cb318.svg",
+    "index.html": "/my-sketches/index.html",
+    "main.b51bf751.css.map": "/my-sketches/static/css/main.b51bf751.css.map",
+    "main.6a9b9dcc.js.map": "/my-sketches/static/js/main.6a9b9dcc.js.map",
+    "787.4dfcc1db.chunk.js.map": "/my-sketches/static/js/787.4dfcc1db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b51bf751.css",
+    "static/js/main.6a9b9dcc.js"
+  ]
+}
